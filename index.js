@@ -1,6 +1,5 @@
-var $ = require('jQuery');
 import React, { Component, PropTypes } from 'react';
-
+var $ = require('jQuery');
 class RandomTest extends Component {
   static PropTypes = {
     h1: PropTypes.string,
